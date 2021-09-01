@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=oLTidCuisew
 
 ---
 
-# `07.2` Contador de letras
+# `07.2` Letter Counter
 
 Our customer needs a program that counts the letters repetitions in a given string, I know that's weird, but they are very adamant, We need this asap! 
 
